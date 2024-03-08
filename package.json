@@ -12,6 +12,7 @@
     "css-loader": "^6.10.0",
     "eslint": "^8.57.0",
     "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-config-prettier": "^9.1.0",
     "eslint-config-semistandard": "^17.0.0",
     "eslint-config-standard": "^17.1.0",
     "eslint-plugin-import": "^2.29.1",
@@ -288,5 +289,6 @@
     "wrappy": "^1.0.2",
     "yallist": "^4.0.0",
     "yocto-queue": "^0.1.0"
-  }
+  },
+  "keywords": []
 }
